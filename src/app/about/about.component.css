@@ -1,0 +1,10 @@
+.custom-dialog-container .mat-dialog-container {
+    background-color: white;
+}
+
+/deep/ .custom-dialog-container {
+    background-color: white;
+    position: relative !important;
+    top: 10%;
+    height: 500px;
+}

@@ -1,0 +1,11 @@
+@media (max-width: 699px) {
+    .hide-small {
+        display: none!important;
+    }
+  }
+
+  @media (min-width: 700px) {
+    .hide-large {
+        display: none!important;
+    }
+  }
